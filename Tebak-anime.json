@@ -1,0 +1,116 @@
+[
+        {
+          image: "https://i.pinimg.com/474x/74/d2/43/74d243d1d841a84af9ede747b92e97f0.jpg",
+          nama: "Hanako",
+          namafull: "Hanako-Kun"
+        },
+        {
+          image: "https://i.pinimg.com/564x/fd/45/40/fd45408373da20025b5a01ff1d375645.jpg",
+          nama: "Tanaka",
+          namafull: "Tanaka-Kun"
+        },
+        {
+          image: "https://i.pinimg.com/474x/2b/c8/76/2bc876c7cd62e5816a84334df9b7535d.jpg",
+          nama: "Kurumi",
+          namafull:"Kurumi Tokisaki"
+        },
+        {
+          image: "https://i.pinimg.com/474x/c3/5a/20/c35a20de06dd184462d56f4145c83aa5.jpg",
+          nama: "Andou",
+          namafull: "Jurai Andou"
+        },
+        {
+          image: "https://i.pinimg.com/474x/49/8b/05/498b058e8d7f568bf5662cc48cf291f4.jpg",
+          nama: "Rimuru",
+          namafull: "Rimuru Tempest"
+        },
+        {
+          image: "https://i.pinimg.com/474x/37/5c/dc/375cdc7fe325be42fd1cfbf512e04d2f.jpg",
+          jawaban: "Jabami",
+          namafull: "Yumeko Jabami"
+        },
+        {
+          image: "https://i.pinimg.com/474x/80/94/96/8094966a47842f50e98f2a0cd315466f.jpg",
+          jawaban: "Kazuto Kirigaya",
+          namafull: "Kazuto Kirigaya"
+        },
+        {
+          image: "https://i.pinimg.com/474x/57/d8/e9/57d8e90c933ac88a8f1996ec52c3f31f.jpg",
+          jawaban: "Kanao",
+          namafull: "Kanao Tsuyuri"
+        },
+        {
+          image: "https://i.pinimg.com/474x/8d/93/f8/8d93f872657defad2964e62f55950b97.jpg",
+          nama: "Naofumi",
+          namafull: "Naofumi Iwatani"
+        },  
+        {
+          image: "https://cdn.myanimelist.net/images/characters/12/321856.jpg",
+          jawaban: "Monokuma",
+          namafull: "Monokuma"    
+        },  
+        {
+          image: "https://i.pinimg.com/236x/df/df/37/dfdf37c36232832b36f81ada0a5eb56f.jpg",
+          jawaban: "Naegi"
+        },  
+        {
+          image: "https://i.pinimg.com/474x/e5/81/e6/e581e6e72812be65b6a6afaadfeb29fa.jpg",
+          jawaban: "Rintarou Okabe"
+        },  
+        {
+          image: "https://i.pinimg.com/originals/28/67/33/286733648393d0600c3f30f51009a5bb.jpg",
+          jawaban: "Kurisu Makise"
+        },  
+        {
+          image: "https://cdn.myanimelist.net/images/characters/4/277146.jpg",
+          jawaban: "Lelouch Lamperouge"
+        },  
+        {
+          image: "https://i.pinimg.com/474x/62/98/ac/6298acc6799c2d1e374a4de2f9ead5de.jpg",
+          jawaban: "Shinomiya Kaguya"
+        },  
+        {
+          image: "https://i.pinimg.com/736x/36/06/a9/3606a9b0e5a03668d1d8260a5715900f.jpg",
+          jawaban: "Kiyotaka Ayanokouji"
+        },  
+        {
+          image: " ",
+          jawaban: " "
+        }, 
+        {
+          image: " ",
+          jawaban: " "
+        },  
+        {
+          image: " ",
+          jawaban: " "
+        },  
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        },
+        {
+          image: " ",
+          jawaban: " "
+        }
+    ]
